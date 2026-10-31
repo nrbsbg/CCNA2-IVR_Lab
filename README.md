@@ -165,7 +165,7 @@ Switch(config)# hostname ANAHTAR-X
 
 (config-vlan)# Ctrl+Z.
 
-# write //Konfigürasyon kaydedildi.
+
 
 ## Portu VLAN’e Atama (Access Port)
 
